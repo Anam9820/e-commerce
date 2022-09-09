@@ -1,0 +1,11 @@
+.owl-nav{
+    float: right;
+  }
+  .owl-next, .owl-prev {
+  background-color: #1ea8df !important;
+  color: #fff !important;
+  border-radius: 50%;
+  width: 30px;
+  height: 35px;
+  margin: 10px;
+  }
